@@ -1,4 +1,4 @@
-# gradle-simple
+# gradle-simple project
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple) [![](https://jitci.com/gh/jitpack/gradle-simple/svg)](https://jitci.com/gh/jitpack/gradle-simple)
 
